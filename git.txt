@@ -1,0 +1,20 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Harmanjaggi/Weather-App.git
+git push -u origin main
+
+
+git remote add origin https://github.com/vinayak0505/spaceship.git
+git branch -M main
+git push -u origin main
+
+git status
+git branch main
+git add .
+git commit -m "first"
+git push origin main
+git switch main / git checkout main
+git merge
+git stash
